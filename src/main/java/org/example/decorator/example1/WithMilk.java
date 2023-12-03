@@ -1,4 +1,4 @@
-package org.example.decorator;
+package org.example.decorator.example1;
 
 public class WithMilk extends CoffeeDecorator {
     Coffee coffee;

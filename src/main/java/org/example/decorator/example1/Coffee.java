@@ -1,4 +1,4 @@
-package org.example.decorator;
+package org.example.decorator.example1;
 
 public abstract class Coffee {
     String description;
